@@ -17,4 +17,4 @@ end
 
 a = A.new 1
 
-a.nla 1,1,nil,"Foo"
+a.nla 1,1,nil,"Wewe"
